@@ -16,6 +16,8 @@ Create a Function
   
   
   Or By .htaccess
+  
+  
   <code>
   ErrorDocument 404 /404.html
   </code>
