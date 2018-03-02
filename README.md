@@ -7,11 +7,11 @@ There are multiple ways to Integrate this into your system
 Create a Function
 
 <code>
-  <?php
+  
     function Error($type){
     include"return_error.php";
     }
-?>
+    
   </code>
   
   
