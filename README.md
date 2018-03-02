@@ -19,5 +19,5 @@ Create a Function
   
   
   <code>
-  ErrorDocument 404 /404.html
+  ErrorDocument 404 /path/to/return_error.php
   </code>
